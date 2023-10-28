@@ -17,7 +17,7 @@
 body {
     font-family: 'Lora', cursive;
     background-color: rgb(151, 228, 244);
-    color: white;
+    color: rgb(58, 39, 15);
     margin: 0;
     padding: 0;
 }
@@ -89,7 +89,7 @@ header {
 }
 
 .logo {
-    color: rgb(4, 59, 59);
+    color: rgb(53, 85, 85);
     font-size: 25px;
 }
 
@@ -101,12 +101,12 @@ header {
 .menu .navbar ul li a {
     font-size: 18px;
     padding: 20px;
-    color: aquamarine;
+    color: rgb(147, 235, 205);
     display: block;
 }
 
 .menu .navbar ul li a:hover {
-    color: aqua;
+    color: rgb(99, 153, 93);
 }
 
 nav {
@@ -160,7 +160,7 @@ nav a {
 }
 
 .history-box {
-    background-color: rgba(224, 230, 229, 0.904);
+    background-color: rgba(123, 157, 152, 0.904);
     padding: 20px;
     box-sizing: border-box;
     display: flex;
@@ -239,4 +239,3 @@ footer {
 #contact-section form {
     /* Estilos del formulario */
 }
-
